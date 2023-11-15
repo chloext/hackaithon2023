@@ -1,0 +1,688 @@
+{
+    "data": [
+        {
+            "relevance": 0.0,
+            "id": "4U45uVMtMUwBeVXD39",
+            "title": "AMERICAN WRESTLING - BRIERLEY HILL CIVIC",
+            "description": "AMERICAN WRESTLING RETURNS TO BRIERLEY HILL!",
+            "category": "community",
+            "labels": [
+                "concert",
+                "music",
+                "sport"
+            ],
+            "rank": 30,
+            "local_rank": 48,
+            "phq_attendance": 100,
+            "entities": [
+                {
+                    "entity_id": "L6X6j7arCqzWPgaDvWSyBH",
+                    "name": "Brierley Hill Civic Hall",
+                    "type": "venue",
+                    "formatted_address": "Bank Street\nBrierley Hill DY5 3DH\nUnited Kingdom"
+                }
+            ],
+            "duration": 7200,
+            "start": "2028-12-31T14:30:00Z",
+            "end": "2028-12-31T16:30:00Z",
+            "updated": "2023-10-31T14:43:53Z",
+            "first_seen": "2023-09-16T21:12:35Z",
+            "timezone": "Europe/London",
+            "location": [
+                -2.1221759,
+                52.4840415
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        -2.1221759,
+                        52.4840415
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "1pnigok6nd@4hp-t7g-gtv"
+            },
+            "scope": "locality",
+            "country": "GB",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "2635167",
+                    "6269131",
+                    "3333144",
+                    "2654724"
+                ],
+                [
+                    "6295630",
+                    "6255148",
+                    "2635167",
+                    "6269131",
+                    "3333144",
+                    "2650839"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 1231,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 868,
+                "transportation": 363
+            }
+        },
+        {
+            "relevance": 0.0,
+            "id": "3WGNRnXPM53crvm7PG",
+            "title": "AMERICAN WRESTLING - BRIERLEY HILL CIVIC",
+            "description": "AMERICAN WRESTLING RETURNS TO BRIERLEY HILL!",
+            "category": "community",
+            "labels": [
+                "concert",
+                "music",
+                "sport"
+            ],
+            "rank": 30,
+            "local_rank": 48,
+            "phq_attendance": 100,
+            "entities": [
+                {
+                    "entity_id": "L6X6j7arCqzWPgaDvWSyBH",
+                    "name": "Brierley Hill Civic Hall",
+                    "type": "venue",
+                    "formatted_address": "Bank Street\nBrierley Hill DY5 3DH\nUnited Kingdom"
+                }
+            ],
+            "duration": 7200,
+            "start": "2028-12-30T14:30:00Z",
+            "end": "2028-12-30T16:30:00Z",
+            "updated": "2023-10-31T05:49:03Z",
+            "first_seen": "2023-09-14T06:12:58Z",
+            "timezone": "Europe/London",
+            "location": [
+                -2.1221759,
+                52.4840415
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        -2.1221759,
+                        52.4840415
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "1pnigok6nd@4hp-t7g-gtv"
+            },
+            "scope": "locality",
+            "country": "GB",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "2635167",
+                    "6269131",
+                    "3333144",
+                    "2654724"
+                ],
+                [
+                    "6295630",
+                    "6255148",
+                    "2635167",
+                    "6269131",
+                    "3333144",
+                    "2650839"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 1231,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 868,
+                "transportation": 363
+            }
+        },
+        {
+            "relevance": 0.0,
+            "id": "CvK74mtcU3eReYgHwN",
+            "title": "Minnesota Americans vs SG Football",
+            "description": "",
+            "category": "sports",
+            "labels": [
+                "american-football",
+                "sport"
+            ],
+            "rank": 0,
+            "local_rank": 0,
+            "phq_attendance": null,
+            "entities": [
+                {
+                    "entity_id": "gR8FZ8hEhf6q59RxWZqD2N",
+                    "name": "Minnesota Americans",
+                    "type": "organization"
+                },
+                {
+                    "entity_id": "gVe3ktwL5qXPj67YStBDVn",
+                    "name": "SG Football",
+                    "type": "organization"
+                },
+                {
+                    "entity_id": "BfJgsKKfNFHnzhC6xixRjt",
+                    "name": "SeatGeek Arena",
+                    "type": "venue",
+                    "formatted_address": "902 Rufus Rd\nRye Cove\nUnited States of America"
+                }
+            ],
+            "duration": 0,
+            "start": "2028-12-24T17:00:00Z",
+            "end": "2028-12-24T17:00:00Z",
+            "predicted_end": "2028-12-24T19:55:00Z",
+            "updated": "2023-10-26T04:49:40Z",
+            "first_seen": "2023-01-11T00:40:41Z",
+            "timezone": "America/New_York",
+            "location": [
+                -82.6958,
+                36.7254
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        -82.6958,
+                        36.7254
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@63m-pk4-cwk"
+            },
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254928",
+                    "4784660",
+                    "4783338"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254928",
+                    "4784660",
+                    "4760593"
+                ]
+            ],
+            "state": "active",
+            "private": false
+        },
+        {
+            "relevance": 0.0,
+            "id": "6QCHsQfhtk8VWxGYTZ",
+            "title": "Concerto",
+            "description": "vfjbs dkanslnx nn ònx x<lnl",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 30,
+            "local_rank": 41,
+            "phq_attendance": 99,
+            "entities": [],
+            "duration": 10800,
+            "start": "2028-12-15T19:00:00Z",
+            "end": "2028-12-15T22:00:00Z",
+            "updated": "2023-10-26T14:37:16Z",
+            "first_seen": "2022-11-24T01:05:18Z",
+            "timezone": "Europe/Rome",
+            "location": [
+                9.2005913,
+                45.4598811
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        9.2005913,
+                        45.4598811
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@53k-thy-kcq"
+            },
+            "scope": "locality",
+            "country": "IT",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3174618",
+                    "3173434",
+                    "6542283",
+                    "3173435"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 2265,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 1245,
+                "transportation": 1020
+            }
+        },
+        {
+            "relevance": 0.0,
+            "id": "3cxpCGZomAWrhSevxH",
+            "title": "Musical Night",
+            "description": "Jazz e blues Musical Night",
+            "category": "performing-arts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 35,
+            "local_rank": 46,
+            "phq_attendance": 182,
+            "entities": [
+                {
+                    "entity_id": "37zjgsNjj2nWLJ3cYECe5vx",
+                    "name": "Duomo di Milano",
+                    "type": "venue",
+                    "formatted_address": "Piazza del Duomo\n20122 Milano\nItaly"
+                }
+            ],
+            "duration": 10800,
+            "start": "2028-12-15T18:00:00Z",
+            "end": "2028-12-15T21:00:00Z",
+            "updated": "2023-10-31T14:10:27Z",
+            "first_seen": "2022-11-09T15:34:21Z",
+            "timezone": "Europe/Rome",
+            "location": [
+                9.1919265,
+                45.4640976
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        9.1919265,
+                        45.4640976
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@53k-tj6-28v"
+            },
+            "scope": "locality",
+            "country": "IT",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3174618",
+                    "3173434",
+                    "6542283",
+                    "3173435"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 4165,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 2289,
+                "transportation": 1876
+            },
+            "phq_labels": [
+                {
+                    "label": "concert",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "relevance": 0.0,
+            "id": "4kttEVixoNjrx4fcRy",
+            "title": "Concerto",
+            "description": "concerto di musica pop jkvjmvfkmvokvopjvkvmkmfjvorvorvkfmkjfogvjojjjgjgoepiiepe",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 74,
+            "local_rank": 92,
+            "phq_attendance": 15000,
+            "entities": [
+                {
+                    "entity_id": "39E4UBDYPrJJFefCbRcMMFP",
+                    "name": "Verona Arena",
+                    "type": "venue",
+                    "formatted_address": "1 Piazza Bra\n37121 Verona\nItaly"
+                }
+            ],
+            "duration": 10800,
+            "start": "2028-12-15T18:00:00Z",
+            "end": "2028-12-15T21:00:00Z",
+            "updated": "2023-10-26T03:12:38Z",
+            "first_seen": "2023-01-05T00:14:18Z",
+            "timezone": "Europe/Rome",
+            "location": [
+                10.9943574,
+                45.4389958
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        10.9943574,
+                        45.4389958
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@4z5-fr9-4gk"
+            },
+            "scope": "locality",
+            "country": "IT",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3164604",
+                    "3164526",
+                    "6541865",
+                    "3164527"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 908883,
+            "predicted_event_spend_industries": {
+                "accommodation": 194941,
+                "hospitality": 531789,
+                "transportation": 182152
+            },
+            "phq_labels": [
+                {
+                    "label": "pop",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "relevance": 0.0,
+            "id": "E9NvaxFKvig5x5cFBK",
+            "title": "Concerto",
+            "description": "Concerto organizzato a scopo educativo, non reale",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 32,
+            "local_rank": 45,
+            "phq_attendance": 125,
+            "entities": [
+                {
+                    "entity_id": "cD9mnxtJ8tyDvgEBYNtzQn",
+                    "name": "Viale Certosa, 144",
+                    "type": "venue",
+                    "formatted_address": "144 Viale Certosa\nMilan\nItaly"
+                }
+            ],
+            "duration": 21600,
+            "start": "2028-12-15T18:00:00Z",
+            "end": "2028-12-16T00:00:00Z",
+            "updated": "2023-10-26T02:26:20Z",
+            "first_seen": "2022-12-04T03:29:49Z",
+            "timezone": "Europe/Rome",
+            "location": [
+                9.138106,
+                45.4964338
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        9.138106,
+                        45.4964338
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@53k-tgq-vpv"
+            },
+            "scope": "locality",
+            "country": "IT",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3174618",
+                    "3173434",
+                    "6542283",
+                    "3172419"
+                ],
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3174618",
+                    "3173434",
+                    "6542283",
+                    "3173435"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 5722,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 3144,
+                "transportation": 2577
+            }
+        },
+        {
+            "relevance": 0.0,
+            "id": "EBDWFh8Ry2v3dpaHeN",
+            "title": "MILANO JAZZ DAY",
+            "description": "concerto milano musica jaz ahahahahha",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music"
+            ],
+            "rank": 29,
+            "local_rank": 40,
+            "phq_attendance": 94,
+            "entities": [],
+            "duration": 10800,
+            "start": "2028-12-15T18:00:00Z",
+            "end": "2028-12-15T21:00:00Z",
+            "updated": "2023-10-26T02:17:50Z",
+            "first_seen": "2022-11-08T13:00:05Z",
+            "timezone": "Europe/Rome",
+            "location": [
+                9.2005913,
+                45.4598811
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        9.2005913,
+                        45.4598811
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@53k-thy-kcq"
+            },
+            "scope": "locality",
+            "country": "IT",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "3175395",
+                    "3174618",
+                    "3173434",
+                    "6542283",
+                    "3173435"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 2151,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 1182,
+                "transportation": 969
+            },
+            "phq_labels": [
+                {
+                    "label": "jazz-and-classical",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "relevance": 0.0,
+            "id": "6LDsDu8iTHL82cksWb",
+            "title": "Miami Sharks vs SG Football",
+            "description": "",
+            "category": "sports",
+            "labels": [
+                "american-football",
+                "sport"
+            ],
+            "rank": 0,
+            "local_rank": 0,
+            "phq_attendance": null,
+            "entities": [
+                {
+                    "entity_id": "gLWiQykeMKQ36ZUAdyBSWK",
+                    "name": "Miami Sharks",
+                    "type": "organization"
+                },
+                {
+                    "entity_id": "gVe3ktwL5qXPj67YStBDVn",
+                    "name": "SG Football",
+                    "type": "organization"
+                },
+                {
+                    "entity_id": "BfJgsKKfNFHnzhC6xixRjt",
+                    "name": "SeatGeek Arena",
+                    "type": "venue",
+                    "formatted_address": "902 Rufus Rd\nRye Cove\nUnited States of America"
+                }
+            ],
+            "duration": 0,
+            "start": "2028-12-03T17:00:00Z",
+            "end": "2028-12-03T17:00:00Z",
+            "predicted_end": "2028-12-03T19:55:00Z",
+            "updated": "2023-10-26T02:26:53Z",
+            "first_seen": "2023-01-11T00:40:36Z",
+            "timezone": "America/New_York",
+            "location": [
+                -82.6958,
+                36.7254
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        -82.6958,
+                        36.7254
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@63m-pk4-cwk"
+            },
+            "scope": "locality",
+            "country": "US",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254928",
+                    "4784660",
+                    "4783338"
+                ],
+                [
+                    "6295630",
+                    "6255149",
+                    "6252001",
+                    "6254928",
+                    "4784660",
+                    "4760593"
+                ]
+            ],
+            "state": "active",
+            "private": false
+        },
+        {
+            "relevance": 0.0,
+            "id": "G3eLjR8FNVzHytUuTX",
+            "title": "AMERICAN WRESTLING - WIDNES",
+            "description": "AMERICAN WRESTLING RETURNS TO WIDNES!",
+            "category": "concerts",
+            "labels": [
+                "concert",
+                "music",
+                "sport"
+            ],
+            "rank": 29,
+            "local_rank": 47,
+            "phq_attendance": 91,
+            "entities": [
+                {
+                    "entity_id": "7qfiMXMYvq6iU2kkCYuagF",
+                    "name": "Kingsway Leisure Centre",
+                    "type": "venue",
+                    "formatted_address": "Kingsway\nWidnes WA8 7QH\nUnited Kingdom"
+                }
+            ],
+            "duration": 7200,
+            "start": "2028-12-02T19:30:00Z",
+            "end": "2028-12-02T21:30:00Z",
+            "updated": "2023-10-26T04:48:08Z",
+            "first_seen": "2023-09-09T01:42:29Z",
+            "timezone": "Europe/London",
+            "location": [
+                -2.733261,
+                53.364002
+            ],
+            "geo": {
+                "geometry": {
+                    "coordinates": [
+                        -2.733261,
+                        53.364002
+                    ],
+                    "type": "Point"
+                },
+                "placekey": "@4hk-x6t-7t9"
+            },
+            "scope": "locality",
+            "country": "GB",
+            "place_hierarchies": [
+                [
+                    "6295630",
+                    "6255148",
+                    "2635167",
+                    "6269131",
+                    "2647601",
+                    "7295223",
+                    "2633954"
+                ]
+            ],
+            "state": "active",
+            "private": false,
+            "predicted_event_spend": 1852,
+            "predicted_event_spend_industries": {
+                "accommodation": 0,
+                "hospitality": 1136,
+                "transportation": 715
+            }
+        }
+    ]
+}
